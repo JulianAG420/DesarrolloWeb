@@ -28,8 +28,8 @@ public class Pais implements Serializable{
     public String getPais(){
         return pais;
     }
-    public void setId(long i){
-        this.id=i;
+    public void setId(long id){
+        this.id=id;
     }
     public void setPais(String p){
         this.pais=p;
